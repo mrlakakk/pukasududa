@@ -1,1 +1,3 @@
-h
+{
+"megafile" : "https://mega.nz/file/"
+}
