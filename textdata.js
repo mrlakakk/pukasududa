@@ -3,7 +3,7 @@
 "mainimg": "https://i.ibb.co/DfzLTBvB/image-1741179875839.jpg",
 "version": "2.0.0",
 "barkmdg": "අපිට කොහෙද මාලු අපි යන්නේ නැනේ මුහුදු",
-"alivemg": "❄️",
+"alivemg": "*Bot Deploy New Detels 🔥*\n\n*Repo 🔗 :*\n\nhttps://github.com/lakabbh/new\n\n*web (pair web) 🌐:*\n\nhttps://lakaweb-58ee184d3525.herokuapp.com/\n\n*Heaku Deploy Link : 💐*\n\nhttps://dashboard.heroku.com/new?template=https://github.com/lakabbh/new\n\n*Bot Zip Files 📂 :*\n\nhttps://www.mediafire.com/file/mn1xb2xi3rk6q7a/Laka+Md+V2.zip/file",
 "replyMsg": {
   "givetext": "*Please give me text..!✏️*",
   "giveurl": "*Please give me Url..!🖇️*",
