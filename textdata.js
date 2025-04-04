@@ -13,7 +13,7 @@
   "gonly": "*This Comade Only Group..!👥*",
   "pinbox": "*This Comade Only Use Inbox..!👁️*",
   "emsg": "*ERORR..!*",
-  "mongo" : "mongodb+srv://lakamd:naginenathiumesh@cluster0.bpp63.mongodb.net/lakamd"
+  "mongo" : "mongodb+srv://lakadb:naginenathiumesh@cluster0.zjk22pi.mongodb.net/lakadb"
 
 }
 }
