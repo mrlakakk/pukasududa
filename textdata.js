@@ -1,5 +1,5 @@
 {
-"footer": "> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ\n\nRepo: github.com/Anuwa666/gg",
+"footer": "> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ </>\n\nRepo: github.com/Anuwa666/gg",
 "mainimg": "https://i.ibb.co/HLBcwR8r/image-1743526150546.jpg",
 "version": "2.0.0",
 "barkmdg": "අපිට කොහෙද මාලු අපි යන්නේ නැනේ මුහුදු",
