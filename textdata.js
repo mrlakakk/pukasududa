@@ -1,6 +1,6 @@
 {
 "footer": "`「 🚨 ɢɪᴛʜᴜʙ ʀᴇᴘᴏ」` github.com/Anuwa666/gg\n*୨────୨ৎ────ৎ────୨ৎ──ৎ*\n> _✄┈ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ...🕊️_",
-"mainimg": "https://i.ibb.co/zV3ncBTp/image-1744505172040.jpg",
+"mainimg": "https://i.ibb.co/5xw4MRvp/image-1744905391062.jpg",
 "version": "3.0.0",
 "barkmdg": "අපිට කොහෙද මාලු අපි යන්නේ නැනේ මුහුදු",
 "alivemg": "*Laka Md WhatsApp Bot Is SriLanka Creacte By Lashmitha (LakaOfc) 🔥*",
